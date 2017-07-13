@@ -1,0 +1,58 @@
+body {
+  background: pink;
+  font-family: 'Oswald', sans-serif;
+  color: darkblue;
+
+}
+
+header{
+  background: navy;
+  padding: 35px;
+  position: fixed;
+  width: 100%;
+  font-family: 'Oswald', sans-serif;
+  font-size: 15px;
+  color: white;
+}
+
+nav {
+  background: white;
+  padding: 40px;
+  padding-top: 250px;
+}
+
+#vitals {
+  background: navy;
+  padding: 20px;
+}
+
+#lists {
+  background: white;
+  padding: 20px;
+}
+
+section {
+  background: white;
+  padding: 16px;
+  margin: 16px;
+  border: 2px solid navy;
+  border-radius: 3px;
+}
+
+#profile-photo {
+  top: 100px;
+  left: 50%;
+  margin-left: -100px;
+  border-radius: 50%;
+  position: absolute;
+}
+
+nav a {
+  text-decoration: none;
+  font-size: 24px;
+}
+
+
+.summary-header {}
+
+h1, h2, .best {}
